@@ -1,12 +1,6 @@
-# Wise-will Edu agent Platform（即将在开源基础上推出本地桌面的特别版产品）
+# （即将在开源基础上推出本地桌面的特别版产品）
 <img width="2382" height="1962" alt="Clipboard_Screenshot_1767272956" src="https://github.com/user-attachments/assets/04393c0b-7240-454d-8ded-ff7601c33b2e" />
 
-
-## 📚 开源教育 AI Agent 产品
-
-这是一个**代码开源的教育 AI Agent 产品**，  
-在设计上**借鉴了蚂蚁灵光、豆包爱学、飞象老师等优秀产品的设计**，  
-致力于 **可视化地解释你的一切问题**，真正做到——**为教育而生**。
 
 ---
 
