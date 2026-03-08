@@ -1,4 +1,4 @@
-# （即将推出本地桌面的特别版产品）
+# （新的完全重构版本将会发布）
 <img width="2382" height="1962" alt="Clipboard_Screenshot_1767272956" src="https://github.com/user-attachments/assets/04393c0b-7240-454d-8ded-ff7601c33b2e" />
 
 
